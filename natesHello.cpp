@@ -5,7 +5,10 @@
 int main() {
     std::cout << "Hello World! This is nates hello world" << std::endl;
     std::cout << "I made a basic change " << std::endl;
-    std::cout << "Now this is an edit in natesFirstBranch " << std::endl;
+    std::cout << "I made another change, playing with git. I wanna go home :(" << std::endl;
+
+
+    
     
     
 
